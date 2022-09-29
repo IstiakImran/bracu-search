@@ -1,0 +1,126 @@
+.main {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0 0 0;
+}
+
+.aboutSec {
+    padding: 100px 5px 5px 5px;
+}
+
+.welcome h1 {
+    text-align: center;
+    color: #253494;
+}
+
+.logo img {
+    width: 150px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
+
+
+}
+
+.search_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+
+}
+
+.search_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.search:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(1px);
+}
+
+.box {
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 10px;
+}
+
+.floorBox {
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 10px;
+}
+
+.infoTxt {
+    text-align: center;
+}
+
+#btn {
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 10px;
+}
+
+#btn:hover {
+    background-color: rgb(204, 229, 250);
+}
+
+.textSec {
+    padding: 5px 5px 60px 5px;
+}
+
+footer {
+    position: absolute;
+    bottom: -1;
+    height: 5px 5px 50px 5px;
+    width: 100%;
+    background: #2d2d2e;
+    color: #fff;
+    text-align: center;
+}
