@@ -75,7 +75,6 @@ testDeive = () => {
         .then(data => info(data))
     const info = roomnum => {
         let room = roomnum[0].rows
-        console.log(room[1].cell[8])
 
 
 
@@ -146,8 +145,8 @@ testDeive = () => {
                 console.log(int_time(room[i].cell[7]))
                 console.log(int_time(todayTime))
                 console.log(int_time(room[i].cell[6]))
-                console.log(room[i].cell[6])
-                // break
+                console.log(room[i].cell[8])
+                break
 
             }
             else if (btnValue) {
