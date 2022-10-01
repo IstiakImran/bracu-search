@@ -157,6 +157,14 @@ testDeive = () => {
                 
                 `
             }
+            else if (int_time(todayTime) > 21.5 && Friday == day) {
+                inrTxt.innerHTML = `
+                <h1>
+                    University is closed
+                </h1>
+                
+                `
+            }
             else {
 
             }
