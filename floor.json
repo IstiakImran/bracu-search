@@ -178,7 +178,7 @@
             },
             {
                 "id": "10th",
-                "RoomNum": [                    
+                "RoomNum": [
                     {
                         "roomName": "1002",
                         "id": "UB21002"
@@ -190,8 +190,7 @@
                     {
                         "roomName": "1005",
                         "id": "UB21005"
-                    }
-                    ,
+                    },
                     {
                         "roomName": "1006",
                         "id": "UB21006"
@@ -204,7 +203,7 @@
             },
             {
                 "id": "12th",
-                "RoomNum": [                    
+                "RoomNum": [
                     {
                         "roomName": "1201",
                         "id": "UB21201"
@@ -213,7 +212,7 @@
             },
             {
                 "id": "13th",
-                "RoomNum": [                    
+                "RoomNum": [
                     {
                         "roomName": "1310",
                         "id": "UB21310"
@@ -222,7 +221,7 @@
             },
             {
                 "id": "15th",
-                "RoomNum": [                    
+                "RoomNum": [
                     {
                         "roomName": "1511",
                         "id": "UB21511"
@@ -231,7 +230,7 @@
             },
             {
                 "id": "19th",
-                "RoomNum": [                    
+                "RoomNum": [
                     {
                         "roomName": "1901",
                         "id": "UB21901"
@@ -766,9 +765,28 @@
                     {
                         "roomName": "909",
                         "id": "UB80909"
-                    },{
+                    },
+                    {
                         "roomName": "910",
                         "id": "UB80910"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB11",
+        "Floor": [
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB110201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB110202"
                     }
                 ]
             }
