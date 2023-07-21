@@ -68,9 +68,11 @@ const idCollector = finalInfo => {
     console.log(finalInfo.value)
 }
 
+// fetching data
+// need to update floor.json for ub10, 11.
 
 testDeive = () => {
-    fetch('fall22.json')
+    fetch('summer23.json') 
         .then(res => res.json())
         .then(data => info(data))
     const info = roomnum => {
@@ -134,7 +136,7 @@ testDeive = () => {
             if (room[i].cell[8] == btnValue && room[i].cell[5] == day && int_time(todayTime) < (int_time(room[i].cell[7])) && int_time(todayTime) > int_time(room[i].cell[6])) {
                 inrTxt.innerHTML = `
                 <h1>
-                    Room is not available
+                    Room is not available now.
                 </h1>
                 <h3>
                 ${room[i].cell[2]} section ${room[i].cell[4]}'s class is being held till ${room[i].cell[7]}
@@ -152,7 +154,7 @@ testDeive = () => {
             else if (btnValue) {
                 inrTxt.innerHTML = `
                 <h1>
-                    Room is available
+                    Room is available!
                 </h1>
                 
                 `
