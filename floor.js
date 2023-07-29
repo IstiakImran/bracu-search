@@ -72,7 +72,7 @@ const idCollector = finalInfo => {
 // need to update floor.json for ub10, 11.
 
 testDeive = () => {
-    fetch('summer23.json') 
+    fetch('summer23.json')
         .then(res => res.json())
         .then(data => info(data))
     const info = roomnum => {
@@ -165,6 +165,22 @@ testDeive = () => {
                     University is closed
                 </h1>
                 
+                `
+            }
+            else if (int_time(todayTime) > 21.5) {
+                inrTxt.innerHTML = `
+                <h1>
+                    University is closed after 9:30 pm.
+                </h1>
+                
+                `
+            }
+            else if (int_time(todayTime) < 7.5) {
+                inrTxt.innerHTML = `
+                <h1>
+                    University will open after 7:30 am.
+                </h1>
+
                 `
             }
             else {
