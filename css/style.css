@@ -108,7 +108,7 @@ main {
 }
 
 #btn:hover {
-    background-color: rgb(204, 229, 250);
+    background-color: rgb(114, 165, 206);
 }
 
 .textSec {
@@ -118,7 +118,7 @@ main {
 footer {
     position: fixed;
     bottom: 0;
-    height: 5px 5px 50px 5px;
+    height: 5px 50px 50px 5px;
     width: 100%;
     background: #2d2d2e;
     color: #fff;
