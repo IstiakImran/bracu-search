@@ -133,6 +133,14 @@ testDeive = () => {
 
         for (let i = 0; i < room.length; i++) {
             c++
+            if (room[i].cell[8] == "UB40401" || room[i].cell[8] == "UB40403") {
+                inrTxt.innerHTML = `
+                <h1>
+                    Room is available now.
+                </h1>
+                `
+                break
+            }
             if (room[i].cell[8] == btnValue && room[i].cell[5] == day && int_time(todayTime) < (int_time(room[i].cell[7])) && int_time(todayTime) > int_time(room[i].cell[6])) {
                 inrTxt.innerHTML = `
                 <h1>
