@@ -133,7 +133,23 @@ testDeive = () => {
 
         for (let i = 0; i < room.length; i++) {
             c++
-            if (room[i].cell[8] == btnValue && room[i].cell[5] == day && int_time(todayTime) < (int_time(room[i].cell[7])) && int_time(todayTime) > int_time(room[i].cell[6])) {
+            if (int_time(todayTime) > 21.5) {
+                inrTxt.innerHTML = `
+                <h1>
+                    University is closed after 9:30 pm.
+                </h1>
+                
+                `
+            }
+            else if (int_time(todayTime) < 7.5) {
+                inrTxt.innerHTML = `
+                <h1>
+                    University will open after 7:30 am.
+                </h1>
+
+                `
+            }
+            else if (room[i].cell[8] == btnValue && room[i].cell[5] == day && int_time(todayTime) < (int_time(room[i].cell[7])) && int_time(todayTime) > int_time(room[i].cell[6])) {
                 inrTxt.innerHTML = `
                 <h1>
                     Room is not available now.
@@ -165,22 +181,6 @@ testDeive = () => {
                     University is closed
                 </h1>
                 
-                `
-            }
-            else if (int_time(todayTime) > 21.5) {
-                inrTxt.innerHTML = `
-                <h1>
-                    University is closed after 9:30 pm.
-                </h1>
-                
-                `
-            }
-            else if (int_time(todayTime) < 7.5) {
-                inrTxt.innerHTML = `
-                <h1>
-                    University will open after 7:30 am.
-                </h1>
-
                 `
             }
             else {
