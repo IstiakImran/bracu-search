@@ -21,7 +21,7 @@ The **Bracu Search** is a web-based application designed to provide real-time in
 
 ### Screenshot
 <span align="center">
-<img width="95%" src="./img/bracu search.svg"/>
+<img width="95%" src="./img/Asset 5.png"/>
 </span>
 
 ## Key Features
