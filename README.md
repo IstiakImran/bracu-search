@@ -1,7 +1,10 @@
 <!-- # [BRACU Search](https://istiakimran.github.io/bracu-search/) -->
-<div>
+<div align="center">
 <h1 align="center"> <a href="https://istiakimran.github.io/bracu-search/" target="blank">Bracu Search</a>
 </h1>
+<p>
+    A website that tells you the availability of classrooms withing BRACU Campus.
+</p>
 </div> 
 
 ## Table of Contents
@@ -14,7 +17,12 @@
 <!-- - [License](#license) -->
 
 ## Introduction
-The Bracu_search is a web-based application designed to provide real-time information about the availability of rooms within Brac University's Mohakhali campus. With the fast-paced nature of campus life, finding an available room for group discussions, self-study, or meetings can be a challenging task. Our project aims to simplify this process by offering an intuitive and up-to-date platform that displays the occupancy status of various rooms on campus.
+The **Bracu Search** is a web-based application designed to provide real-time information about the availability of rooms within Brac University's Mohakhali campus. With the fast-paced nature of campus life, finding an available room for group discussions, self-study, or meetings can be a challenging task. Our project aims to simplify this process by offering an intuitive and up-to-date platform that displays the occupancy status of various rooms on campus.
+
+### Screenshot
+<span align="center">
+<img width="95%" src="./img/bracu search.svg"/>
+</span>
 
 ## Key Features
 - **Real-time Updates**: The application provides instant updates on room availability, making it easy to find an open space on campus without delays.
