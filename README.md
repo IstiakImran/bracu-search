@@ -48,7 +48,7 @@ The **Bracu Search** is a web-based application designed to provide real-time in
 ## Technologies Used
 - HTML
 - CSS
-- Node.js
+- Javascript
 - JSON
 - Class Schedule from USIS Advising Portal of BRAC University etc.
 
