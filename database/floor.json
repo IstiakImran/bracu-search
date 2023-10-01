@@ -1,0 +1,827 @@
+[
+    {
+        "Building": "Library",
+        "Floor": [
+            {
+                "id": "3rd Floor",
+                "RoomNum": [
+                    {
+                        "roomName": "Study Room",
+                        "id": "UB20301"
+                    }
+                ]
+            },
+            {
+                "id": "4th Floor",
+                "RoomNum": [
+                    {
+                        "roomName": "Library Room",
+                        "id": "UB20401"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB01",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "101",
+                        "id": "UB10101"
+                    },
+                    {
+                        "roomName": "102",
+                        "id": "UB10102"
+                    },
+                    {
+                        "roomName": "103",
+                        "id": "UB10103"
+                    },
+                    {
+                        "roomName": "104",
+                        "id": "UB10104"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB10201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB10202"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB10203"
+                    },
+                    {
+                        "roomName": "204",
+                        "id": "UB10204"
+                    }
+                ]
+            },
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB10301"
+                    },
+                    {
+                        "roomName": "302",
+                        "id": "UB10302"
+                    },
+                    {
+                        "roomName": "303",
+                        "id": "UB10303"
+                    },
+                    {
+                        "roomName": "304",
+                        "id": "UB10304"
+                    },
+                    {
+                        "roomName": "305",
+                        "id": "UB10305"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB02",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "101",
+                        "id": "UB20101"
+                    },
+                    {
+                        "roomName": "103",
+                        "id": "UB20103"
+                    },
+                    {
+                        "roomName": "104",
+                        "id": "UB20104"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB20201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB20202"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB20203"
+                    },
+                    {
+                        "roomName": "204",
+                        "id": "UB20204"
+                    }
+                ]
+            },
+            {
+                "id": "5th",
+                "RoomNum": [
+                    {
+                        "roomName": "501",
+                        "id": "UB20501"
+                    }
+                ]
+            },
+            {
+                "id": "7th",
+                "RoomNum": [
+                    {
+                        "roomName": "701",
+                        "id": "UB20701"
+                    },
+                    {
+                        "roomName": "702",
+                        "id": "UB20702"
+                    }
+                ]
+            },
+            {
+                "id": "8th",
+                "RoomNum": [
+                    {
+                        "roomName": "801",
+                        "id": "UB20801"
+                    },
+                    {
+                        "roomName": "802",
+                        "id": "UB20802"
+                    },
+                    {
+                        "roomName": "803",
+                        "id": "UB20803"
+                    },
+                    {
+                        "roomName": "804",
+                        "id": "UB20804"
+                    }
+                ]
+            },
+            {
+                "id": "9th",
+                "RoomNum": [
+                    {
+                        "roomName": "901",
+                        "id": "UB20901"
+                    },
+                    {
+                        "roomName": "902",
+                        "id": "UB20902"
+                    },
+                    {
+                        "roomName": "903",
+                        "id": "UB20903"
+                    },
+                    {
+                        "roomName": "904",
+                        "id": "UB20904"
+                    }
+                ]
+            },
+            {
+                "id": "10th",
+                "RoomNum": [
+                    {
+                        "roomName": "1002",
+                        "id": "UB21002"
+                    },
+                    {
+                        "roomName": "1003",
+                        "id": "UB21003"
+                    },
+                    {
+                        "roomName": "1005",
+                        "id": "UB21005"
+                    },
+                    {
+                        "roomName": "1006",
+                        "id": "UB21006"
+                    },
+                    {
+                        "roomName": "1007",
+                        "id": "UB21007"
+                    }
+                ]
+            },
+            {
+                "id": "12th",
+                "RoomNum": [
+                    {
+                        "roomName": "1201",
+                        "id": "UB21201"
+                    }
+                ]
+            },
+            {
+                "id": "13th",
+                "RoomNum": [
+                    {
+                        "roomName": "1310",
+                        "id": "UB21310"
+                    }
+                ]
+            },
+            {
+                "id": "15th",
+                "RoomNum": [
+                    {
+                        "roomName": "1511",
+                        "id": "UB21511"
+                    }
+                ]
+            },
+            {
+                "id": "19th",
+                "RoomNum": [
+                    {
+                        "roomName": "1901",
+                        "id": "UB21901"
+                    },
+                    {
+                        "roomName": "1913",
+                        "id": "UB21913"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB03",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "101",
+                        "id": "UB30101"
+                    },
+                    {
+                        "roomName": "102",
+                        "id": "UB30102"
+                    },
+                    {
+                        "roomName": "103",
+                        "id": "UB30103"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB30201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB30102"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB30203"
+                    }
+                ]
+            },
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB30301"
+                    },
+                    {
+                        "roomName": "302",
+                        "id": "UB30302"
+                    },
+                    {
+                        "roomName": "303",
+                        "id": "UB30303"
+                    }
+                ]
+            },
+            {
+                "id": "4th",
+                "RoomNum": [
+                    {
+                        "roomName": "401",
+                        "id": "UB30401"
+                    },
+                    {
+                        "roomName": "402",
+                        "id": "UB30402"
+                    },
+                    {
+                        "roomName": "403",
+                        "id": "UB30403"
+                    }
+                ]
+            },
+            {
+                "id": "5th",
+                "RoomNum": [
+                    {
+                        "roomName": "501",
+                        "id": "UB30501"
+                    },
+                    {
+                        "roomName": "502",
+                        "id": "UB30502"
+                    },
+                    {
+                        "roomName": "503",
+                        "id": "UB30503"
+                    }
+                ]
+            },
+            {
+                "id": "6th",
+                "RoomNum": [
+                    {
+                        "roomName": "601",
+                        "id": "UB30601"
+                    },
+                    {
+                        "roomName": "602",
+                        "id": "UB30602"
+                    },
+                    {
+                        "roomName": "603",
+                        "id": "UB30603"
+                    }
+                ]
+            },
+            {
+                "id": "7th",
+                "RoomNum": [
+                    {
+                        "roomName": "701",
+                        "id": "UB30701"
+                    },
+                    {
+                        "roomName": "702",
+                        "id": "UB30702"
+                    },
+                    {
+                        "roomName": "703",
+                        "id": "UB30703"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB04",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "101",
+                        "id": "UB40101"
+                    },
+                    {
+                        "roomName": "103",
+                        "id": "UB40103"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB40201"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB40203"
+                    }
+                ]
+            },
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB40301"
+                    }
+                ]
+            },
+            {
+                "id": "4th",
+                "RoomNum": [
+                    {
+                        "roomName": "401",
+                        "id": "UB40401"
+                    },
+                    {
+                        "roomName": "403",
+                        "id": "UB40403"
+                    }
+                ]
+            },
+            {
+                "id": "6th",
+                "RoomNum": [
+                    {
+                        "roomName": "602",
+                        "id": "UB40602"
+                    },
+                    {
+                        "roomName": "603",
+                        "id": "UB40603"
+                    }
+                ]
+            },
+            {
+                "id": "9th",
+                "RoomNum": [
+                    {
+                        "roomName": "901",
+                        "id": "UB40901"
+                    },
+                    {
+                        "roomName": "902",
+                        "id": "UB40902"
+                    },
+                    {
+                        "roomName": "903",
+                        "id": "UB40603"
+                    }
+                ]
+            },
+            {
+                "id": "10th",
+                "RoomNum": [
+                    {
+                        "roomName": "1001",
+                        "id": "UB41001"
+                    },
+                    {
+                        "roomName": "1002",
+                        "id": "UB41002"
+                    }
+                ]
+            },
+            {
+                "id": "11th",
+                "RoomNum": [
+                    {
+                        "roomName": "1101",
+                        "id": "UB41001"
+                    },
+                    {
+                        "roomName": "1103",
+                        "id": "UB41103"
+                    }
+                ]
+            },
+            {
+                "id": "14th",
+                "RoomNum": [
+                    {
+                        "roomName": "1402",
+                        "id": "UB41402"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB05",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "102",
+                        "id": "UB50102"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB50201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB50202"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB50203"
+                    }
+                ]
+            },
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB50301"
+                    },
+                    {
+                        "roomName": "302",
+                        "id": "UB50302"
+                    },
+                    {
+                        "roomName": "303",
+                        "id": "UB50303"
+                    }
+                ]
+            },
+            {
+                "id": "4th",
+                "RoomNum": [
+                    {
+                        "roomName": "402",
+                        "id": "UB50402"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB06",
+        "Floor": [
+            {
+                "id": "8th",
+                "RoomNum": [
+                    {
+                        "roomName": "804",
+                        "id": "UB60804"
+                    },
+                    {
+                        "roomName": "806",
+                        "id": "UB60806"
+                    },
+                    {
+                        "roomName": "809",
+                        "id": "UB60809"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB07",
+        "Floor": [
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB70301"
+                    },
+                    {
+                        "roomName": "302",
+                        "id": "UB70302"
+                    },
+                    {
+                        "roomName": "303",
+                        "id": "UB70303"
+                    },
+                    {
+                        "roomName": "304",
+                        "id": "UB70304"
+                    }
+                ]
+            },
+            {
+                "id": "4th",
+                "RoomNum": [
+                    {
+                        "roomName": "401",
+                        "id": "UB70401"
+                    },
+                    {
+                        "roomName": "402",
+                        "id": "UB70402"
+                    },
+                    {
+                        "roomName": "403",
+                        "id": "UB70403"
+                    }
+                ]
+            },
+            {
+                "id": "5th",
+                "RoomNum": [
+                    {
+                        "roomName": "501",
+                        "id": "UB70501"
+                    },
+                    {
+                        "roomName": "502",
+                        "id": "UB70502"
+                    },
+                    {
+                        "roomName": "503",
+                        "id": "UB70403"
+                    }
+                ]
+            },
+            {
+                "id": "7th",
+                "RoomNum": [
+                    {
+                        "roomName": "701",
+                        "id": "UB70701"
+                    },
+                    {
+                        "roomName": "702",
+                        "id": "UB70702"
+                    },
+                    {
+                        "roomName": "703",
+                        "id": "UB70703"
+                    }
+                ]
+            },
+            {
+                "id": "10th",
+                "RoomNum": [
+                    {
+                        "roomName": "1002",
+                        "id": "UB71002"
+                    },
+                    {
+                        "roomName": "1003",
+                        "id": "UB71003"
+                    }
+                ]
+            },
+            {
+                "id": "11th",
+                "RoomNum": [
+                    {
+                        "roomName": "1101",
+                        "id": "UB71101"
+                    },
+                    {
+                        "roomName": "1102",
+                        "id": "UB71102"
+                    },
+                    {
+                        "roomName": "1103",
+                        "id": "UB71103"
+                    }
+                ]
+            },
+            {
+                "id": "12th",
+                "RoomNum": [
+                    {
+                        "roomName": "1202",
+                        "id": "UB71202"
+                    }
+                ]
+            },
+            {
+                "id": "13th",
+                "RoomNum": [
+                    {
+                        "roomName": "1309",
+                        "id": "UB71309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB08",
+        "Floor": [
+            {
+                "id": "1st",
+                "RoomNum": [
+                    {
+                        "roomName": "101",
+                        "id": "UB80101"
+                    },
+                    {
+                        "roomName": "102",
+                        "id": "UB80102"
+                    },
+                    {
+                        "roomName": "103",
+                        "id": "UB80103"
+                    }
+                ]
+            },
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB80201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB80202"
+                    },
+                    {
+                        "roomName": "203",
+                        "id": "UB80203"
+                    },
+                    {
+                        "roomName": "204",
+                        "id": "UB80204"
+                    }
+                ]
+            },
+            {
+                "id": "3rd",
+                "RoomNum": [
+                    {
+                        "roomName": "301",
+                        "id": "UB80301"
+                    },
+                    {
+                        "roomName": "302",
+                        "id": "UB80302"
+                    },
+                    {
+                        "roomName": "303",
+                        "id": "UB80303"
+                    }
+                ]
+            },
+            {
+                "id": "4th",
+                "RoomNum": [
+                    {
+                        "roomName": "401",
+                        "id": "UB80401"
+                    },
+                    {
+                        "roomName": "402",
+                        "id": "UB80402"
+                    },
+                    {
+                        "roomName": "403",
+                        "id": "UB80403"
+                    },
+                    {
+                        "roomName": "404",
+                        "id": "UB80404"
+                    }
+                ]
+            },
+            {
+                "id": "9th",
+                "RoomNum": [
+                    {
+                        "roomName": "909",
+                        "id": "UB80909"
+                    },
+                    {
+                        "roomName": "910",
+                        "id": "UB80910"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Building": "UB11",
+        "Floor": [
+            {
+                "id": "2nd",
+                "RoomNum": [
+                    {
+                        "roomName": "201",
+                        "id": "UB110201"
+                    },
+                    {
+                        "roomName": "202",
+                        "id": "UB110202"
+                    }
+                ]
+            }
+        ]
+    }
+]

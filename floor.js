@@ -1,6 +1,6 @@
 
 const floorFun = floorEle => {
-    fetch('floor.json')
+    fetch('./database/floor.json')
         .then(res => res.json())
         .then(data => floor(data))
     const floor = dat => {
@@ -31,7 +31,7 @@ const floorFun = floorEle => {
 }
 const roomFun = roomEle => {
 
-    fetch('floor.json')
+    fetch('./database/floor.json')
         .then(response => response.json())
         .then(datas => room(datas))
     const room = dats => {
@@ -71,8 +71,10 @@ const idCollector = finalInfo => {
 // fetching data
 // need to update floor.json for ub10, 11.
 
+
+
 testDeive = () => {
-    fetch('summer23.json')
+    fetch('./database/fall23.json')
         .then(res => res.json())
         .then(data => info(data))
     const info = roomnum => {
@@ -131,6 +133,8 @@ testDeive = () => {
         const inrTxt = document.getElementById('info_text')
         console.log(int_time(todayTime))
 
+        // if btnValue == ""
+        
         for (let i = 0; i < room.length; i++) {
             c++
             if (int_time(todayTime) > 21.5) {
@@ -152,6 +156,7 @@ testDeive = () => {
             else if (room[i].cell[8] == btnValue && room[i].cell[5] == day && int_time(todayTime) < (int_time(room[i].cell[7])) && int_time(todayTime) > int_time(room[i].cell[6])) {
                 inrTxt.innerHTML = `
                 <h1>
+                ${room[i], cell[8], room[i].cell[8]}
                     Room is not available now.
                 </h1>
                 <h3>
@@ -167,6 +172,7 @@ testDeive = () => {
                 break
 
             }
+            
             else if (btnValue) {
                 inrTxt.innerHTML = `
                 <h1>

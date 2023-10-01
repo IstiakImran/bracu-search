@@ -4,7 +4,7 @@
 <h1 align="center"> <a href="https://istiakimran.github.io/bracu-search/" target="blank">Bracu Search</a>
 </h1>
 <p>
-    A website that tells you the availability of classrooms withing BRACU Campus.
+    A website that tells you the availability of classrooms within BRACU Campus.
 </p>
 </div> 
 
@@ -49,7 +49,7 @@ The **Bracu Search** is a web-based application designed to provide real-time in
 ## Technologies Used
 - HTML
 - CSS
-- Node.js
+- Javascript
 - JSON
 - Class Schedule from USIS Advising Portal of BRAC University etc.
 
